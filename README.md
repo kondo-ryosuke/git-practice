@@ -4,3 +4,4 @@ git hub上で更新
 rebase-practice branchで更新　conflict
 rebase用
 stash rennsyuu
+stash tracke
